@@ -3,9 +3,24 @@
 ````markdown
 # 📦 ProShop – Gestion de Produits
 
+
 ProShop est une application Laravel permettant de gérer facilement vos produits : ajout, modification, suppression, aperçu des images, statistiques, tableau de bord, etc.
 
 Ce projet offre une interface simple, rapide et intuitive pour administrer un catalogue de produits.
+
+---
+
+## 📋 Sommaire
+
+- [🚀 Fonctionnalités](#-fonctionnalités)
+- [📸 Captures d’écran](#-captures-décran)
+- [🛠️ Installation](#️-installation)
+- [📂 Structure principale](#-structure-principale)
+- [🧩 Technologies utilisées](#-technologies-utilisées)
+- [🔐 Authentification](#-authentification)
+- [🤝 Contribuer](#-contribuer)
+- [📄 Licence](#-licence)
+- [📧 Contact](#-contact)
 
 ---
 
@@ -28,19 +43,18 @@ Ce projet offre une interface simple, rapide et intuitive pour administrer un ca
 
 ## 📸 Captures d’écran
 
-> Place tes images dans un dossier `/screenshots` à la racine du projet.
 
 ### 🏠 Page de connexion
-![Login](./screenshots/login.png)
+![Login](./screenshots/connexion.png)
 
 ### 📊 Tableau de bord
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/accueil.png)
 
 ### 📦 Liste des produits
-![Products](./screenshots/products.png)
+![Products](./screenshots/listes.png)
 
 ### ➕ Ajout d’un produit
-![Add Product](./screenshots/add_product.png)
+![Add Product](./screenshots/ajouter.png)
 
 ---
 
@@ -96,7 +110,6 @@ app/
  ├── Http/
  │    ├── Controllers/
  │    │    └── ProductController.php
- │
 public/
  └── storage/  → lien vers storage/app/public
 resources/
@@ -136,4 +149,8 @@ L’application gère automatiquement :
 
 
 
+```
 
+---
+
+```
