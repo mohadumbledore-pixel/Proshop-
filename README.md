@@ -1,8 +1,4 @@
-
-
-````markdown
 # 📦 ProShop – Gestion de Produits
-
 
 ProShop est une application Laravel permettant de gérer facilement vos produits : ajout, modification, suppression, aperçu des images, statistiques, tableau de bord, etc.
 
@@ -43,7 +39,6 @@ Ce projet offre une interface simple, rapide et intuitive pour administrer un ca
 
 ## 📸 Captures d’écran
 
-
 ### 🏠 Page de connexion
 ![Login](screenshots/connexion.png)
 
@@ -64,10 +59,9 @@ Ce projet offre une interface simple, rapide et intuitive pour administrer un ca
 ```bash
 git clone https://github.com/tonrepo/proshop.git
 cd proshop
-````
+```
 
 ### 2. Installer les dépendances
-
 ```bash
 composer install
 npm install
@@ -75,7 +69,6 @@ npm run build
 ```
 
 ### 3. Configuration de l’environnement
-
 ```bash
 cp .env.example .env
 php artisan key:generate
@@ -84,19 +77,16 @@ php artisan key:generate
 Configurer ensuite votre fichier `.env` (MySQL, mail, etc.)
 
 ### 4. Migration de la base de données
-
 ```bash
 php artisan migrate
 ```
 
 ### 5. Lier le stockage
-
 ```bash
 php artisan storage:link
 ```
 
 ### 6. Démarrer le serveur
-
 ```bash
 php artisan serve
 ```
@@ -127,12 +117,12 @@ storage/
 
 ## 🧩 Technologies utilisées
 
-* Laravel 12
-* PHP 8.3+
-* Bootstrap 5
-* MySQL
-* Blade Templates
-* Eloquent ORM
+* Laravel 12  
+* PHP 8.3+  
+* Bootstrap 5  
+* MySQL  
+* Blade Templates  
+* Eloquent ORM  
 
 ---
 
@@ -140,17 +130,10 @@ storage/
 
 L’application gère automatiquement :
 
-* ✔ Login
-* ✔ Register
-* ✔ Reset Password
-* ✔ Sessions sécurisées
+* ✔ Login  
+* ✔ Register  
+* ✔ Reset Password  
+* ✔ Sessions sécurisées  
 
 ---
 
-
-
-```
-
----
-
-```
