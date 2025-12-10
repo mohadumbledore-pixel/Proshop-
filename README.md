@@ -45,16 +45,16 @@ Ce projet offre une interface simple, rapide et intuitive pour administrer un ca
 
 
 ### 🏠 Page de connexion
-![Login](./screenshots/connexion.png)
+![Login](screenshots/connexion.png)
 
 ### 📊 Tableau de bord
-![Dashboard](./screenshots/accueil.png)
+![Dashboard](screenshots/accueil.png)
 
 ### 📦 Liste des produits
-![Products](./screenshots/listes.png)
+![Products](screenshots/listes.png)
 
 ### ➕ Ajout d’un produit
-![Add Product](./screenshots/ajouter.png)
+![Add Product](screenshots/ajouter.png)
 
 ---
 
