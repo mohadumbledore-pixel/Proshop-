@@ -14,9 +14,6 @@ Ce projet offre une interface simple, rapide et intuitive pour administrer un ca
 - [📂 Structure principale](#-structure-principale)
 - [🧩 Technologies utilisées](#-technologies-utilisées)
 - [🔐 Authentification](#-authentification)
-- [🤝 Contribuer](#-contribuer)
-- [📄 Licence](#-licence)
-- [📧 Contact](#-contact)
 
 ---
 
@@ -40,16 +37,16 @@ Ce projet offre une interface simple, rapide et intuitive pour administrer un ca
 ## 📸 Captures d’écran
 
 ### 🏠 Page de connexion
-![Login](screenshots/connexion.png)
+![Login](/screenshoots/connexion.png)
 
 ### 📊 Tableau de bord
-![Dashboard](screenshots/accueil.png)
+![Dashboard](/screenshoots/accueil.png)
 
 ### 📦 Liste des produits
-![Products](screenshots/listes.png)
+![Products](/screenshoots/listes.png)
 
 ### ➕ Ajout d’un produit
-![Add Product](screenshots/ajouter.png)
+![Add Product](/screenshoots/listes.png)
 
 ---
 
